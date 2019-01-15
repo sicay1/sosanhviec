@@ -31,5 +31,11 @@ Chạy webserve:
   pip install requirements.txt
   python run.py
 ```
+
+Để  crawl thêm các web việc làm khác:
+
+- Đảm bảo đủ các trường trong `/crawl_service/job/items.py`
+- Thêm mã crawl tại `crawl_service/job/spiders`
+- Thêm class gọi tới spider crawl tại `crawl_service/job/run.py'
   
 
