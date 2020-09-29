@@ -16,7 +16,7 @@ Tạo môi trường ảo virtualenv (python3.6)
 Chạy thủ công crawl data:
 ```
   cd crawl_service/
-  pip install requirements.txt
+  pip install -r requirements.txt
   cd job
   python run.py
 ```
@@ -28,7 +28,7 @@ Chạy webserve:
 ```
   cd web_service/
   copy job_new.csv đặt tại đây
-  pip install requirements.txt
+  pip install -r requirements.txt
   python run.py
 ```
 
