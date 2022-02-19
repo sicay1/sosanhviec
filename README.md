@@ -12,6 +12,7 @@ Vấn đề mà dự án giải quyết:
 
 Tạo môi trường ảo virtualenv (python3.6)
 
+asdfasdf
 
 Chạy thủ công crawl data:
 ```
