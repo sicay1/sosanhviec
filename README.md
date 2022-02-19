@@ -14,6 +14,7 @@ Tạo môi trường ảo virtualenv (python3.6)
 
 asdfasdf
 123123
+456456
 Chạy thủ công crawl data:
 ```
   cd crawl_service/
