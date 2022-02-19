@@ -12,9 +12,13 @@ Vấn đề mà dự án giải quyết:
 
 Tạo môi trường ảo virtualenv (python3.6)
 
+<<<<<<< HEAD
 asdfasdf
 123123
 456456
+=======
+
+>>>>>>> parent of 388f541 (up)
 Chạy thủ công crawl data:
 ```
   cd crawl_service/
