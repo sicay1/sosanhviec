@@ -13,7 +13,7 @@ Vấn đề mà dự án giải quyết:
 Tạo môi trường ảo virtualenv (python3.6)
 
 asdfasdf
-
+123123
 Chạy thủ công crawl data:
 ```
   cd crawl_service/
