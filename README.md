@@ -35,7 +35,7 @@ Chạy webserve:
   cd web_service/
   copy job_new.csv đặt tại đây
   pip install -r requirements.txt
-  python app.py
+  python run.py
 ```
 
 Để  crawl thêm các web việc làm khác:
